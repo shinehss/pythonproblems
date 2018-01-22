@@ -1,0 +1,14 @@
+#the first problem 
+#第一题的代码
+#test
+a = 1
+def fun(a):
+    a = 2
+fun(a)
+print(a)
+
+b = []
+def fun(b):
+   b.append(1)
+fun(b)
+print(b)
